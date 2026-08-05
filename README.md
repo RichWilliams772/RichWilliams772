@@ -52,13 +52,12 @@ I enjoy building intelligent systems that combine artificial intelligence, machi
 - Data Visualization
 
 ## Education
-
-🎓 Ph.D. Electrical Engineering & Computer Science  
 Florida Atlantic University
+🎓 Ph.D. Computer Science  (Expected 2030)
 
-🎓 M.S. Data Science & Analytics
+🎓 M.S. Data Science & Analytics Aug 2026
 
-🎓 B.A. Computer Science
+🎓 B.A. Computer Science May 2025
 
 ## Awards
 
@@ -68,7 +67,7 @@ Florida Atlantic University
 
 ## Connect
 
-🌐 Portfolio: https://YOUR-VERCEL-LINK.vercel.app
+🌐 Portfolio: https://richelle-williams-portfolio.vercel.app/
 
 💼 LinkedIn: https://linkedin.com/in/richelle-williams-b1ab87324
 
