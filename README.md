@@ -2,7 +2,7 @@
 
 AI & Data Professional | Ph.D. Student in Electrical Engineering & Computer Science at Florida Atlantic University
 
-I enjoy building intelligent systems that combine artificial intelligence, machine learning, backend engineering, and data analytics to solve real-world problems.
+I'm an AI and data professional passionate about designing intelligent systems that combine machine learning, data engineering, backend development, and applied AI research to solve complex real-world problems. My work spans healthcare, cybersecurity, intelligent infrastructure, enterprise analytics, and emerging AI applications.
 
 ## Research Interests
 
