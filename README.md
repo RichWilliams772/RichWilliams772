@@ -13,6 +13,8 @@ I enjoy building intelligent systems that combine artificial intelligence, machi
 - Intelligent Infrastructure
 - Cybersecurity
 - FinTech
+- Healthcare
+- Energy
 
 ## Featured Projects
 
