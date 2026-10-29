@@ -8,13 +8,10 @@ I'm an AI and data professional passionate about designing intelligent systems t
 
 - Artificial Intelligence
 - Machine Learning
-- Data Engineering
 - Generative AI
 - Intelligent Infrastructure
 - Cybersecurity
 - FinTech
-- Healthcare
-- Energy
 
 ## Featured Projects
 
